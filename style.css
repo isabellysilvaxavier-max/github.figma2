@@ -24,3 +24,13 @@ background-repeat: no-repeat;
   border-radius:5px;
 }
 }
+.conteiner_botao{
+}
+.botao_secundario{
+  background-color: transparent;
+  border:2px solid var(--botao-principal)
+
+}
+.container{
+
+}
